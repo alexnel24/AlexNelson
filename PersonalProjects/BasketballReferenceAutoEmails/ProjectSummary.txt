@@ -1,0 +1,9 @@
+Project Summary: Scrape the website basketballreference.com for specific players to obtain specific game statistics and automatically send e-mails to a small list of friends every morning to update after the previous days games. Works for any player who has played in the 2019-2020 season on the website.
+
+Scraping: Used beautifulSoup to access basketballreference and go through multiple webpages to get to the correct player and correct season to pull the information. Stored data in a pandas dataframe, saved backups as a csv. 
+
+Preparing email: used SMTP library to login to gmail account and send specific e-mails.
+
+Automatic: used cron within MacBook to setup automatic running of python script. Setup personal MacBook to wake up one minute before script was scheduled to run so it ran every morning.
+
+Program successfully ran during the NBA 2020 Bubble Restart season July and August 2020. 
