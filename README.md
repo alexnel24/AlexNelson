@@ -8,7 +8,9 @@ Personal Projects- I love to code! Check out some of my side projects as I enjoy
 School Projects- Take a look at my formal training
 
 Capstone Project- My end of Masters individual Capstone project (demonstrating Software Engineering designed around Machine Learning)<br />
+
 <br />
+
 Education:
 
 Masters of Software Development University of Utah (2020)   
