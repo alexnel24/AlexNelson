@@ -1,7 +1,10 @@
 # AlexNelson
 Software Engineer
-Education: 
+
+Education:
+
 Masters of Software Development University of Utah (2020)   
+
 Bachelors of Science in Accounting Utah Valley University (2015)
 
 Summary of Contents:
