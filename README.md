@@ -3,7 +3,7 @@ Software Engineer<br />
 
 <br />
 
-Summary of Contents:
+Contents:
 
 Personal Projects- I love to code! Check out some of my side projects as I enjoy expanding my skills
 
