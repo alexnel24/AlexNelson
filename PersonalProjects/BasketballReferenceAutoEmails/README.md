@@ -1,3 +1,7 @@
+Project Summary: Scrape the website basketballreference.com for specific players to obtain specific game statistics and automatically send e-mails.
+Successfully sent to a small list of friends every morning to update after the previous days games. 
+Works for any player who has played in the 2019-2020 season on the website.
+
 Explanation of Contents:
 1. ExampleDonovanMitchell3s.csv - example of csv files saved during project running
 2. ExampleEmail.png - screenshot of one of the emails sent
@@ -7,10 +11,6 @@ Explanation of Contents:
 6. plus.py - webscraping basketballreference.com for plus/minus stat
 7. three.py - webscraping basketballreference.com for Three Pointers Made stat
 8. turn.py - webscraping basketballreference.com for turnovers stat
-
-Project Summary: Scrape the website basketballreference.com for specific players to obtain specific game statistics and automatically send e-mails.
-Successfully sent to a small list of friends every morning to update after the previous days games. 
-Works for any player who has played in the 2019-2020 season on the website.
 
 Scraping: Used beautifulSoup to access basketballreference and go through multiple webpages to get to the correct player 
 and correct season to pull the information. Stored data in a pandas dataframe, saved backups as a csv. 
