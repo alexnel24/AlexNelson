@@ -1,5 +1,5 @@
 # AlexNelson
-Software Engineer<br />
+Software Engineer currently based in Utah<br />
 
 <br />
 
