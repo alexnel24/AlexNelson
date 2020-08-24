@@ -5,7 +5,7 @@ Software Engineer currently based in Utah<br />
 
 Contents:
 
-Capstone Project- My end of Masters individual Capstone project (demonstrating Software Engineering designed around Machine Learning)
+Capstone Project- My end of Masters program individual Capstone project (demonstrating Software Engineering designed around Machine Learning)
 
 Personal Projects- I love to code! Check out some of my side projects as I enjoy expanding my skills
 
