@@ -24,7 +24,7 @@ int main(int argc, const char * argv[]) {
     //this is how fast the snake moves
     window.setFramerateLimit(10);
          
-    //create variables for the game
+    //create variables for the gameS
     border border;
     snake snake;
     food apple;

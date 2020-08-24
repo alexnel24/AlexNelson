@@ -124,6 +124,9 @@ bool snake::aboutToEat(food apple){
             return true;
     }
     
+    if(apple.getX() == tempHead.getXpos() && apple.getY() == tempHead.getYpos())
+        return true;
+    
     return false;
 }
 
