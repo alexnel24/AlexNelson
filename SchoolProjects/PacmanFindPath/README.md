@@ -10,8 +10,8 @@ bfs.java shows my implementation of a breadth first search that works off a self
 
 Contents:
 1. bigMaze.txt - another example of input
-2. bigMaze.txt - another example of solution output by program
+2. bigMazeAlexSolution.txt - another example of solution output by program
 3. bfs.java - my code for breadth first search
 4. straight.txt - an example of a maze put into program
-5. straightAlexSolution.txt - an example of maze solution output by program
+5. straightAlexOutput.txt - an example of maze solution output by program
  
