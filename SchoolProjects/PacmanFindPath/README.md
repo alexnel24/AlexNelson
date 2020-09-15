@@ -9,9 +9,9 @@ Professor requested we don't put our entire solutions online but I have a snippe
 bfs.java shows my implementation of a breadth first search that works off a self made class Node
 
 Contents:
-1. bigMaze.txt - another example of input
-2. bigMazeAlexSolution.txt - another example of solution output by program
-3. bfs.java - my code for breadth first search
+1. bfs.java - my code for breadth first search
+2. bigMaze.txt - another example of input
+3. bigMazeAlexSolution.txt - another example of solution output by program
 4. straight.txt - an example of a maze put into program
 5. straightAlexOutput.txt - an example of maze solution output by program
  
