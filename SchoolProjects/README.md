@@ -5,7 +5,7 @@ Enrolled August 2019 - December 2020 4.0 GPA
 List of Classes:
 
 Data Structures and Algorithms - Queues, Stacks, Heaps, Trees, Hash Tables and Functions. <br />
-Projects of note: 1-[Quicksort-vs-Mergesort](https://github.com/alexnel24/AlexNelson/tree/master/SchoolProjects/QuickSortAndMergeSort)       2-[Breadth-First-Search-Pacman](https://github.com/alexnel24/AlexNelson/tree/master/SchoolProjects/PacmanFindPath)
+Projects of note: 1-[QuicksortVsMergesort](https://github.com/alexnel24/AlexNelson/tree/master/SchoolProjects/QuickSortAndMergeSort)       2-[BreadthFirstSearchPacman](https://github.com/alexnel24/AlexNelson/tree/master/SchoolProjects/PacmanFindPath)
 
 Computer Programming - Object Oriented Programming, primarily in Java. <br />
 Projects of note: "GUI interactive soundsynthesizer" 
