@@ -15,7 +15,7 @@ School Projects- Take a look at my projects from my formal training<br />
 
 Education:
 
-Masters of Software Development University of Utah (2020)   
+Masters of Software Development University of Utah (2020)   (4.0 GPA!!!)
 
 Bachelors of Science in Accounting Utah Valley University (2015)
 
