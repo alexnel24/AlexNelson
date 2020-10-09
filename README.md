@@ -9,7 +9,7 @@ Capstone Project- My end of Masters program capstone (demonstrating Software Eng
 
 Personal Projects- I love to code! Check out some of my side projects as I enjoy expanding my skills
 
-School Projects- Take a look at my formal training<br />
+School Projects- Take a look at my projects from my formal training<br />
 
 <br />
 
