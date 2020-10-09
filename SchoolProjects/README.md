@@ -13,3 +13,5 @@ Projects of note: "GUI interactive soundsynthesizer"
 Systems 2 Computer Networks and Security - Internet software and hardware, protocols, Socket programming and applications.  
 
 Introduction to Software Development - Classes, Inheritance, Interfaces, Compiling, Library Management, Source code control and code (gitHub). All programming was done in C++. 
+
+AND MANY MANY MORE, CHECK BACK SOON!
