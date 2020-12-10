@@ -6,6 +6,7 @@ Software Engineer currently based in Utah<br />
 Contents:
 
 Capstone Project- My end of Masters program capstone (demonstrating Software Engineering designed around Machine Learning)
+Check it out here: https://github.com/alexnel24/RecursionPredictingAPI
 
 Personal Projects- I love to code! Check out some of my side projects as I enjoy expanding my skills
 
